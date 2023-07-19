@@ -42,7 +42,7 @@ tts = TextToSpeech()
 3. Set the desired text to be spoken:
 
 ```python
-text = "Hello everyone, This candidate is well suited for this role, he possess a combination of skills that best fit for this role."
+text = "An audio deepfake (also known as voice cloning) is a type of artificial intelligence used to create convincing speech sentences"
 ```
 
 4. Choose a preset mode to determine the quality of the generated speech:
